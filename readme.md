@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Auth App T2
 
 A simple PHP authentication application featuring user registration, login, and protected dashboard functionality. This project is ideal for learning and quick prototyping of web authentication using PHP and MySQL.
